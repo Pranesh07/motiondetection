@@ -1,3 +1,5 @@
+//hey this is an code for motiondetection using opencv python
+
 import cv2
 import numpy as np 
 cap=cv2.VideoCapture(0)
